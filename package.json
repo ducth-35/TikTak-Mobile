@@ -10,8 +10,18 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/netinfo": "^6.1.0",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "easy-peasy": "^5.0.4",
+    "i18n-js": "^3.8.0",
     "react": "17.0.2",
-    "react-native": "0.66.3"
+    "react-native": "0.66.3",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-safe-area-context": "^3.3.2",
+    "redux-persist": "^6.0.0",
+    "remote-redux-devtools": "^0.5.16"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

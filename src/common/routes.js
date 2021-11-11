@@ -1,0 +1,13 @@
+const Routes = {
+    SPLASH: 'SPLASH',
+
+    ONBOARDING_STACK: 'ONBOARDING_STACK',
+    PRIVACY: 'PRIVACY',
+    ONBOARDING: 'ONBOARDING',
+
+    AUTH_STACK: 'AUTH_STACK',
+    SIGN_IN: 'SIGN_IN',
+    SIGN_UP: 'SIGN_UP',
+    FORGOT_PASSWORD: 'FORGOT_PASSWORD',
+};
+export default Routes;
