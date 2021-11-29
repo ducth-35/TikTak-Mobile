@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "827057833565",
+    "project_id": "ac-wallet",
+    "storage_bucket": "ac-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827057833565:android:9e279f29354eb8c265afb4",
+        "android_client_info": {
+          "package_name": "com.acgroup.tiktakbtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827057833565-9uabnditb1p610fh5m0uqfdcgtdn29sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Xh0t9lBhxrlFCtBj2WqBu0n3aBmd2b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827057833565-9uabnditb1p610fh5m0uqfdcgtdn29sb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827057833565-3cifmkabeee8ro630sb4ju89r8d2c8hv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acgroup.tiktak"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827057833565:android:9f3c71293188f28c65afb4",
+        "android_client_info": {
+          "package_name": "com.achau.acwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827057833565-9uabnditb1p610fh5m0uqfdcgtdn29sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Xh0t9lBhxrlFCtBj2WqBu0n3aBmd2b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827057833565-9uabnditb1p610fh5m0uqfdcgtdn29sb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827057833565-3cifmkabeee8ro630sb4ju89r8d2c8hv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acgroup.tiktak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

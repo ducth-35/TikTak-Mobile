@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TikTak</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">ZWgts0E0YwHN4HuJkzb-aGPCstOePI4KEKZPX</string>
 </resources>
